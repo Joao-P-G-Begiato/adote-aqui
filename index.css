@@ -1,0 +1,268 @@
+body {
+    background-color: burlywood;
+}
+
+.doepag{
+    background-image: url(https://i.pinimg.com/736x/ef/fd/14/effd140779e74b4412e0c8a635b033a4--pet-photos-shiba-inu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contatopag{
+    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2188-c72741.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sobrepag{
+    background-image: url(https://i.pinimg.com/736x/12/24/50/122450951a11a16a339d27a900bde720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.adotepag{
+    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2132-93fadbcb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.animaispag{
+    background-image: url(http://ru.naturewallpaperfree.com/mobile/zhivotnyye-sobaki/priroda-oboi-1280x720-2176-20259336.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: burlywood;
+    border: 4px solid white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adoteaqui{
+    color:white 
+}
+
+.nav{
+    display: flex;
+    flex-direction:row;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    background-color: white;
+    border: 4px solid white;
+}
+
+nav{
+    color: burlywood
+}
+
+.link{
+    display:inline-block;
+    width: 100px;
+    color:burlywood;
+}
+
+.adoteaqui:hover{
+    cursor: pointer;
+    font-size: 110%;
+}
+
+a:hover{
+    color:brown
+}
+
+.divum{
+    background-image: url(https://i.pinimg.com/736x/ef/fd/14/effd140779e74b4412e0c8a635b033a4--pet-photos-shiba-inu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.divdois{
+    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2188-c72741.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.divtres{
+    background-image: url(https://i.pinimg.com/736x/12/24/50/122450951a11a16a339d27a900bde720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.divquatro{
+    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2132-93fadbcb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.divcinco{
+    background-image: url(http://ru.naturewallpaperfree.com/mobile/zhivotnyye-sobaki/priroda-oboi-1280x720-2176-20259336.jpg);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.secum{
+    color:white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 80vw;
+    margin: 15px;
+    border: 2px solid rgba(165, 42, 42, 0.15);
+    padding:30px;
+    background-color: rgba(165, 90, 90, 0.15);
+    border-radius: 10px;
+}
+
+
+section{
+    width:100vw;
+    height: 30px
+}
+
+
+strong{
+    color:brown
+}
+
+.doe{
+    color:brown;
+    background-color: beige;
+    padding: 10px;
+    margin: 15px 30vw 15px 30vw;
+    font-size: 105%;
+    border-radius: 10px;
+}
+
+.pix{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: white;
+    color:brown;
+    text-align: center;
+    width: 500px;
+    margin: 15px 30vw 15px 30vw;
+    border: 10px solid whitesmoke;
+    border-radius: 10px;
+}
+
+.secdois{
+    color:white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 80vw;
+    margin: 15px;
+    border: 2px solid rgba(165, 42, 42, 0.15);
+    padding:30px;
+    background-color: rgba(165, 90, 90, 0.15);
+    border-radius: 10px;
+}
+
+.ldois{
+    color:white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 80vw;
+    margin: 15px;
+    border: 2px solid rgba(222, 184, 135, 0.7);
+    padding:30px;
+    background-color: rgba(222, 184, 135, 0.5);
+    border-radius: 10px;
+}
+
+.sectres{
+    color:whitesmoke;
+    background-color: rgba(222, 184, 135, 0.7)
+}
+.secquatro{
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    width: 400px;
+    font-size: 80%;
+    background-color: rgba(222, 184, 135, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.portrait{
+    width: 300px;
+    height: 400px;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+.footer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    background-color: white;
+    border: 4px solid white;
+    font-size: 80%;
+}
+
+footer{
+    color: burlywood
+}
+@media (max-width:700px){
+    body{
+        background-color: white;
+    }
+
+    header{
+        background-color: white;
+        border: 4px solid burlywood;
+        display: flex;
+        flex-direction: column;
+        justify-items: space-around ;
+        font-family: Verdana, Tahoma, sans-serif;
+        width: 180px;
+    }
+    
+    .adoteaqui{
+        color:burlywood;
+        display: none;
+    }
+    
+    .nav{
+        display: flex;
+        flex-direction:column;
+        text-align: center;
+        background-color: burlywood;
+        border: 4px solid burlywood;
+    }
+    
+    nav{
+        color: white
+    }
+    
+    a{
+        display:block;
+        height: 50px;
+        width: 150px;
+        border: 1px solid white;
+        margin: 10px;
+        text-align: center;
+        color:white;
+    }
+
+
+}
