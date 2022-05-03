@@ -3,30 +3,30 @@ body {
 }
 
 .doepag{
-    background-image: url(https://i.pinimg.com/736x/ef/fd/14/effd140779e74b4412e0c8a635b033a4--pet-photos-shiba-inu.jpg);
+    background-image: url(https://i.postimg.cc/4N376f93/effd140779e74b4412e0c8a635b033a4-pet-photos-shiba-inu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .contatopag{
-    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2188-c72741.jpg);
+    background-image: url(https://i.postimg.cc/dVP94ZmB/nature-wallpaper-1280x720-2188-c72741.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .sobrepag{
-    background-image: url(https://i.pinimg.com/736x/12/24/50/122450951a11a16a339d27a900bde720.jpg);
+    background-image: url(https://i.postimg.cc/W3C9VWgR/122450951a11a16a339d27a900bde720.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .adotepag{
-    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2132-93fadbcb.jpg);
+    background-image: url(https://i.postimg.cc/bvdHv0zq/nature-wallpaper-1280x720-2132-93fadbcb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .animaispag{
-    background-image: url(http://ru.naturewallpaperfree.com/mobile/zhivotnyye-sobaki/priroda-oboi-1280x720-2176-20259336.jpg);
+    background-image: url(https://i.postimg.cc/hjBjYgZN/priroda-oboi-1280x720-2176-20259336.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -73,38 +73,43 @@ a:hover{
 }
 
 .divum{
-    background-image: url(https://i.pinimg.com/736x/ef/fd/14/effd140779e74b4412e0c8a635b033a4--pet-photos-shiba-inu.jpg);
+    background-image: url(https://i.postimg.cc/4N376f93/effd140779e74b4412e0c8a635b033a4-pet-photos-shiba-inu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.8;
+    
 }
 
 .divdois{
-    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2188-c72741.jpg);
+    background-image: url(https://i.postimg.cc/dVP94ZmB/nature-wallpaper-1280x720-2188-c72741.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.8;
+    
 }
 
 .divtres{
-    background-image: url(https://i.pinimg.com/736x/12/24/50/122450951a11a16a339d27a900bde720.jpg);
+    background-image: url(https://i.postimg.cc/W3C9VWgR/122450951a11a16a339d27a900bde720.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.8;
+    
 }
 
 .divquatro{
-    background-image: url(http://naturewallpaperfree.com/mobile/animals-dogs/nature-wallpaper-1280x720-2132-93fadbcb.jpg);
+    background-image: url(https://i.postimg.cc/bvdHv0zq/nature-wallpaper-1280x720-2132-93fadbcb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.8;
+    
 }
 
 .divcinco{
-    background-image: url(http://ru.naturewallpaperfree.com/mobile/zhivotnyye-sobaki/priroda-oboi-1280x720-2176-20259336.jpg);    
+    background-image: url(https://i.postimg.cc/hjBjYgZN/priroda-oboi-1280x720-2176-20259336.jpg);    
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.8;
+    
 }
 
 .secum{
@@ -113,7 +118,7 @@ a:hover{
     flex-direction: row;
     flex-wrap: wrap;
     align-content: center;
-    width: 80vw;
+    width: auto;
     margin: 15px;
     border: 2px solid rgba(165, 42, 42, 0.15);
     padding:30px;
@@ -224,10 +229,10 @@ table, th, td {
   }
 .footer{
     display: flex;
-    flex-direction:row;
+    flex-direction:column;
     justify-content: space-between;
     background-color: white;
-    border: 4px solid white;
+    border: 4px solid rgb(255, 240, 240);
     font-size: 80%;
 }
 
