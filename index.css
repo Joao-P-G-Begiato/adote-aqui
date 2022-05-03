@@ -65,7 +65,7 @@ nav{
 
 .adoteaqui:hover{
     cursor: pointer;
-    font-size: 110%;
+    font-size: 130%;
 }
 
 a:hover{
@@ -76,53 +76,71 @@ a:hover{
     background-image: url(https://i.postimg.cc/4N376f93/effd140779e74b4412e0c8a635b033a4-pet-photos-shiba-inu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.8;
-    
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+
 }
 
 .divdois{
     background-image: url(https://i.postimg.cc/dVP94ZmB/nature-wallpaper-1280x720-2188-c72741.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.8;
-    
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+
 }
 
 .divtres{
     background-image: url(https://i.postimg.cc/W3C9VWgR/122450951a11a16a339d27a900bde720.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.8;
-    
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+
 }
 
 .divquatro{
     background-image: url(https://i.postimg.cc/bvdHv0zq/nature-wallpaper-1280x720-2132-93fadbcb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.8;
-    
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+
 }
 
 .divcinco{
     background-image: url(https://i.postimg.cc/hjBjYgZN/priroda-oboi-1280x720-2176-20259336.jpg);    
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.8;
-    
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+
 }
 
 .secum{
-    color:white;
+    color:brown;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-content: center;
-    width: auto;
+    width: 80vw;
     margin: 15px;
-    border: 2px solid rgba(165, 42, 42, 0.15);
-    padding:30px;
-    background-color: rgba(165, 90, 90, 0.15);
+    padding:30px 0px 30px 0px;
     border-radius: 10px;
 }
 
@@ -165,11 +183,8 @@ strong{
     flex-wrap: wrap;
     align-content: center;
     width: 80vw;
-    margin: 15px;
-    border: 2px solid rgba(165, 42, 42, 0.15);
-    padding:30px;
-    background-color: rgba(165, 90, 90, 0.15);
-    border-radius: 10px;
+    margin: 15px;   
+    padding:30px 0px 30px 0px;
 }
 .lum{
     color:white;
@@ -217,6 +232,7 @@ form{
     background-color: rgba(222, 184, 135, 0.5);
     padding: 20px;
     border-radius: 10px;
+    margin: 3rem;
 }
 
 .portrait{
@@ -239,6 +255,7 @@ table, th, td {
 footer{
     color: burlywood
 }
+
 @media (max-width:700px){
     body{
         background-color: white;
